@@ -24,3 +24,4 @@ types-psycopg2
 types-python-dateutil
 types-requests
 types-six
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
